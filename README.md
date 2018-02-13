@@ -1,6 +1,8 @@
-# my learning resources for Golang
+# My favorite learning resources for Golang
 
 * [Golang 官方网站](https://golang.org/) [中文版](https://go-zh.org/)
+
+* [《Effective Go》中英双语版](https://bingohuang.gitbooks.io/effective-go-zh-en/content/)
 
 * [A Tour of Go](https://tour.golang.org/welcome/1)
 
