@@ -1,14 +1,11 @@
 # My favorite learning resources for Golang
 
-## Tutorials
 
 * [Golang 官方网站](https://golang.org/) [中文版](https://go-zh.org/)
 
 * [《Effective Go》中英双语版](https://bingohuang.gitbooks.io/effective-go-zh-en/content/)
 
 * [A Tour of Go](https://tour.golang.org/welcome/1)
-
-## eBooks
 
 * [Go by Example](https://gobyexample.com/)
 
@@ -23,3 +20,5 @@
 ## Blogs
 
 * [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+
+* [Hello world goroutine, Golang Concurrency made easy - Part 1](https://blog.rubylearning.com/hello-world-goroutine-golang-concurrency-made-easy-part-1-77e0c15c47e1)
