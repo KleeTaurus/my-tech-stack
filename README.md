@@ -36,6 +36,8 @@
 
 * [Dracula: A dark theme for Vim](https://draculatheme.com/vim/)
 
+* [Go development plugin for Vim](https://github.com/fatih/vim-go)
+
 ## Version Control System
 
 * [gittutorial - A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
