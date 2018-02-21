@@ -8,6 +8,8 @@
 
 * [《Effective Go》中英双语版](https://bingohuang.gitbooks.io/effective-go-zh-en/content/)
 
+* [Go语言圣经 《The Go Programming Language》 中文版本](https://github.com/gopl-zh/gopl-zh.github.com)
+
 * [A Tour of Go](https://tour.golang.org/welcome/1)
 
 * [Go by Example](https://gobyexample.com/)
@@ -20,11 +22,13 @@
 
 * [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 
+* [Practical Cryptography With Go](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
+
 * [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 * [Hello world goroutine, Golang Concurrency made easy - Part 1](https://blog.rubylearning.com/hello-world-goroutine-golang-concurrency-made-easy-part-1-77e0c15c47e1)
 
-* [Golang basics - writing unit tests](https://blog.alexellis.io/golang-writing-unit-tests/) `blog`
+* [Golang basics - writing unit tests](https://blog.alexellis.io/golang-writing-unit-tests/)
 
 ## Editors and Plugins
 
@@ -43,3 +47,5 @@
 ## Others
 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+* [HTTP API Design Guide](https://github.com/interagent/http-api-design)
